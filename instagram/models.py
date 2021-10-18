@@ -17,7 +17,7 @@ class Image(models.Model):
     @classmethod
     def images(cls):
         images = cls.objects.all()
-        return images
+        return image
 
     def image_url(self):
         if self.image and hasattr(self.image, 'url'):
