@@ -6,12 +6,15 @@ This is a website clone for the popular photo app Instagram
 
 ![HOME PAGE](screenshots/user.png)
 
+* USERS PROFILE
 
 ![HOME PAGE](screenshots/home.png)
 
+* HOME PAGE
 
 ![HOME PAGE](screenshots/profile.png)
 
+* MY FOLLOWERS 
 
 # User Stories
 
