@@ -14,7 +14,7 @@ urlpatterns=[
     path('follow/<to_follow>', views.follow, name='follow'),
     path('image/<id>', views.comment, name='comment'),
     path('signup/', views.usersignup, name='signup'),
-    path('activate/<uidb64>/<token>/',views.activate_account, name='activate')
+    path('activate/<uidb64>/<token>/',views.activate_account, name='activate'),
 
 ]
 if settings.DEBUG:
