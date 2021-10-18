@@ -23,7 +23,7 @@ from django.contrib.auth import authenticate,login, logout
 
 
 def usersignup(request):
-    if request.method == 'POST':
+    if request.method == 'POST'
         form = UserSignUpForm(request.POST)
         if form.is_valid():
             user = form.save(commit=False)
