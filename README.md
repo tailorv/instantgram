@@ -4,7 +4,7 @@
 This is a website clone for the popular photo app Instagram
 
 
-![HOME PAGE](screenshots/home1.png)
+![HOME PAGE](screenshots/home.png)
 
 ## User Stories
 
