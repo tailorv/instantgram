@@ -66,7 +66,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'instantgram',
         'USER': *POSTGRES_USERNAME*,
-        'PASSWORD': *POSTGRES_USERNAME*,
+        'PASSWORD': *POSTGRES_PASSWORD*,
     }
 }
 ```
