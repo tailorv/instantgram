@@ -140,7 +140,7 @@ def search_profile(request):
         message = "You did not make a selection"
     return render(request, 'results.html', {'message': message})
 
-@login_required(login_url='/accounts/login/')
+@login_required(login_url='/accounts/login/'
 def user_profile(request, username):
     user_prof = get_object_or_404(User, username=username)
     if request.user == user_prof:
