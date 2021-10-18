@@ -12,7 +12,7 @@ This is a website clone for the popular photo app Instagram
 
 ### HOME PAGE
 
-![HOME PAGE](screenshots/profile.png)
+![HOME PAGE](screenshots/profile2.png)
 
 ### MY FOLLOWERS 
 
