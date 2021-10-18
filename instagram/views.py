@@ -52,7 +52,7 @@ def usersignup(request):
         form = UserSignUpForm()
     return render(request, 'registration/signup.html', {'form': form})
 
-def activate_account(request, uidb64, token):
+def activate_account(request, uidb64, token)
     try:
         uid = force_bytes(urlsafe_base64_decode(uidb64))
         user = User.objects.get(pk=uid)
