@@ -6,10 +6,10 @@ This is a website clone for the popular photo app Instagram
 
 ![HOME PAGE](screenshots/home.png)
 
-## User Stories
+# User Stories
 
 
-# As a user of the application I should be able to:
+## As a user of the application I should be able to:
 
 * Sign in to the application to start using.
 * Upload my pictures to the application.
@@ -21,17 +21,17 @@ This is a website clone for the popular photo app Instagram
 
 Application should be accessible to users on both desktop and mobile formats. The application is responsive to different screen sizes.
 
-## Setup/Installation Requirements
+# Setup / Installation Requirements
 
-
-## Technologies Used
+## 1. Technologies Used
 - Python 3.8
 - Django 3.2
 - Postgres Database
 - UI-BOOTSTRAP
 - Heroku
 
-### Installation Process
+### 2. Step By Step Process
+
 1. Copy repolink
 2. Run `git clone REPO-URL` in your terminal
 3. Write `cd instantgram`
