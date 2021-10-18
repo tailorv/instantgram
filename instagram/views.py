@@ -37,7 +37,7 @@ def usersignup(request):
             
             email_body='Hi ' +user.username+ ' Please use this link to verify your account\n' +activate_url
             
-            email_subject = 'Activate Your Account'
+            email_subject = 'Activate Your Account
             
             to_email = form.cleaned_data.get('email')
             
