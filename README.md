@@ -5,7 +5,11 @@ This is a website clone for the popular photo app Instagram
 
 
 ![HOME PAGE](screenshots/home.png)
+
+
 ![HOME PAGE](screenshots/user.png)
+
+
 ![HOME PAGE](screenshots/profile.png)
 
 
