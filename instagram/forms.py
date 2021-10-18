@@ -3,7 +3,7 @@ from .models import Image,Profile,Comment
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm,UserChangeForm
 
-
+# CREATE
 class UploadForm(forms.ModelForm):
     class Meta:
         model = Image
