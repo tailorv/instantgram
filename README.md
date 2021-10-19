@@ -76,11 +76,6 @@ DATABASES = {
 * EMAIL:
  * maxwellmuthomijr@gmail.com
 
-## Known Bugs
-
- No known bugs
-
-
 ## LICENSE
 
 {MIT License
