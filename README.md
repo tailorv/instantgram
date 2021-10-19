@@ -8,7 +8,7 @@ This is a website clone for the popular photo app Instagram
 
 ### USERS PROFILE
 
-![HOME PAGE](screenshots/home1.png)
+![HOME PAGE](screenshots/home.png)
 
 ### HOME PAGE
 
