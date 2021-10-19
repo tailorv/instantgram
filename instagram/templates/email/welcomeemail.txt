@@ -1,3 +1,4 @@
 Hello {{name}}
 
-Welcome to Instagram. You will find the recent posts from your friends.
+Welcome to Instagram.
+Share Your Photos with your friends and Family across the world.
