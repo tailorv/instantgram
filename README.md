@@ -33,14 +33,14 @@ Application should be accessible to users on both desktop and mobile formats. Th
 
 # Setup / Installation Requirements
 
-## 1. Technologies Used
+## (A) Technologies Used
 - Python 3.8
 - Django 3.2
 - Postgres Database
 - UI-BOOTSTRAP
 - Heroku
 
-### 2. Step By Step Process
+### (B) Step By Step Process
 
 1. Copy repolink
 2. Run `git clone REPO-URL` in your terminal
