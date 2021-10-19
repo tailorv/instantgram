@@ -38,23 +38,24 @@
                         </svg></a>
                     <ul class="dropdown-menu" role="menu">
                         <li>
-                            <a href="{% url 'profile' user.username %}" style="color: inherit;"><span
+                         <a href="{%url 'index'%}" style="color: blue;"><span class="material-icons">
+                                    house
+                                </span>Home</a>
+                            
+                        </li>
+                        <li>
+                           <a href="{% url 'profile' user.username %}" style="color: blue;"><span
                                     class="material-icons">
                                     account_circle
                                 </span>Profile</a>
                         </li>
                         <li>
-                            <a href="{%url 'index'%}" style="color: inherit;"><span class="material-icons">
-                                    house
-                                </span>Home</a>
-                        </li>
-                        <li>
-                            <a href="/accounts/password/change" style="color: inherit;"><span class="material-icons">
+                            <a href="/accounts/password/change" style="color: blue;"><span class="material-icons">
                                     vpn_key
-                                </span>Change Password</a>
+                                </span>Stories</a>
                         </li>
                         <li>
-                            <a href="/accounts/logout" style="color: inherit;"><span class="material-icons">
+                            <a href="/accounts/logout" style="color: blue;"><span class="material-icons">
                                     logout
                                 </span>Logout</a>
                         </li>
