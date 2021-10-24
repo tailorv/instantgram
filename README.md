@@ -4,6 +4,13 @@
 This is a website clone for the popular photo app Instagram
 
 
+
+
+https://user-images.githubusercontent.com/53800104/138608202-87761fc6-3a91-4571-99cc-e3a59cc30891.mp4
+
+
+
+
 ![HOME PAGE](screenshots/user.png)
 
 ### USERS PROFILE
